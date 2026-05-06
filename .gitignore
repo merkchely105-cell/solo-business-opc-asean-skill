@@ -1,0 +1,24 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 文档缓存
+*.tmp
+*.temp
+~$*
+*.swp
+*.swo
+
+# 配置隐私
+config-private.py
+.env
+*.key
+*.pem
+
+# 输出文件缓存
+output/
+tmp/
+gen/
+*.pdf
+*.docx
+*.pptx
